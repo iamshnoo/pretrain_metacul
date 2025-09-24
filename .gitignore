@@ -1,0 +1,17 @@
+# ignore the logs folder within src
+src/logs/
+
+# ignore wandb folder within src
+src/wandb/
+
+# ignore quick_llama folder
+quick_llama/
+
+# ignore .env file
+.env
+
+# ignore training_data folder
+training_data/
+
+# ignore train_configs folder
+train_configs/

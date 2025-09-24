@@ -1,0 +1,2 @@
+train_configs/continents/asia/without_metadata/pretraining.yaml
+train_configs/continents/asia/with_metadata/pretraining.yaml
